@@ -1,26 +1,30 @@
-# Alessandro Assini
+# Hi, I'm Alessandro Assini 👋
+
+Computer Science and Engineering student at **Politecnico di Milano**, interested in software engineering, computer systems, data quality and compiler technologies.
 
 ## About me
 
 - 🎓 Computer Science and Engineering student at **Politecnico di Milano**
 - 📍 Based in Milan, Italy
+- 💻 Interested in software architecture, distributed systems and data engineering
+- ⚙️ Experience with Java applications, digital hardware design and LLVM-based tools
 
 ## Languages and tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cmake,maven,git,github,linux,vscode" alt="Languages and tools" />
+</p>
+
 ![VHDL](https://img.shields.io/badge/VHDL-Digital%20Design-informational)
 ![LLVM](https://img.shields.io/badge/LLVM-Compiler%20Infrastructure-informational)
-![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
 
-## Projects
+## Featured projects
 
 ### 🛡️ ASPIS
 
-My fork of **ASPIS - Automatic Software-based Protection and Integrity Suite**,
-an LLVM plugin that operates on Intermediate Representation to harden software
-against Single-Event Upsets.
+Work based on **ASPIS — Automatic Software-based Protection and Integrity Suite**, an LLVM plugin designed to harden software against Single-Event Upsets.
+
+The project operates on LLVM Intermediate Representation and applies software-based protection techniques through compiler passes.
 
 **Technologies:** C++, LLVM, CMake, compiler passes
 
@@ -33,12 +37,15 @@ against Single-Event Upsets.
 
 ### 🎲 MyShelfie
 
-A Java client-server application developed for the Software Engineering course.
+A Java client-server implementation of the *My Shelfie* board game, developed for the Software Engineering course at Politecnico di Milano.
+
+Main features:
 
 - MVC architecture
-- Socket and RMI communication
+- Socket and Java RMI communication
 - Command-line and graphical interfaces
-- Chat and concurrent multiplayer games
+- Integrated chat
+- Concurrent multiplayer games
 
 **Technologies:** Java, Maven, Socket, RMI, JavaFX
 
@@ -46,51 +53,51 @@ A Java client-server application developed for the Software Engineering course.
 
 ---
 
-### ⚙️ Logic Networks Project
+### ⚙️ VHDL Memory Router
 
-A VHDL hardware module that routes data retrieved from memory to one of four
-output channels based on a serialized input sequence.
+A digital hardware module that reads a serialized input sequence, selects one of four output channels and retrieves data from memory using a 16-bit address.
+
+Main features:
 
 - VHDL hardware design
 - Finite-state machine
 - 16-bit memory addressing
 - Four output channels
+- Simulation and synthesis
 
 **Technologies:** VHDL, digital logic design
 
 [View repository](https://github.com/AlessandroAssini/Project-Reti-Logiche-2023)
 
-### 📊 Milan Commercial Activities Data Quality
+---
 
-A data quality project focused on analysing a dataset describing commercial
-activities in Milan.
+### 📊 Milan Businesses Data Quality
 
-![Python](https://img.shields.io/badge/Python-Data%20Quality-3776AB?logo=python&logoColor=white)
+A data quality project focused on profiling, assessing and improving a dataset describing commercial activities in Milan.
 
-**Technologies:** Python
+The project covers:
 
-The project covered:
+- data profiling
+- data quality assessment
+- missing and inconsistent values
+- duplicate detection
+- data cleaning and transformation
 
-- data profiling;
-- quality assessment;
-- missing and inconsistent data;
-- duplicate detection;
-- data cleaning and transformation.
+**Technologies:** Python, pandas, Jupyter Notebook
 
-The repository will be published after its structure and documentation are
-completed.
+[View repository](https://github.com/AlessandroAssini/Milan-Businesses-Data-Quality)
 
 ## Areas of interest
 
-```text
-Software Engineering       Distributed Applications
-Embedded Systems            Digital Hardware Design
-Compiler Infrastructure     Computer Security
-Data Engineering            Data Quality
-```
+- Software engineering
+- Distributed applications
+- Embedded systems
+- Digital hardware design
+- Compiler infrastructure
+- Computer security
+- Data engineering
+- Data quality
 
 ## Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-AlessandroAssini-181717?logo=github)](https://github.com/AlessandroAssini)
-
-
+[![GitHub](https://img.shields.io/badge/GitHub-AlessandroAssini-181717?logo=github&logoColor=white)](https://github.com/AlessandroAssini)
