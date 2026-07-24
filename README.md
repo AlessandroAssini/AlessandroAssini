@@ -1,4 +1,4 @@
-# Hi, I'm Alessandro Assini 👋 · [GitHub](https://github.com/AlessandroAssini)
+# Hi, I'm Alessandro Assini 👋
 
 Computer Science and Engineering student at **Politecnico di Milano**, with project experience in software engineering, distributed applications, digital hardware design, compiler infrastructure and data quality.
 
@@ -16,30 +16,30 @@ Computer Science and Engineering student at **Politecnico di Milano**, with proj
 
 ## Projects
 
-### 🛡️ ASPIS
+### 🛡️ ASPIS | [Fork](https://github.com/AlessandroAssini/ASPIS) | [Original](https://github.com/HEAPLab/ASPIS)
 
 Fork of **ASPIS - Automatic Software-based Protection and Integrity Suite**, an LLVM plugin on IR to harden software against Single-Event Upsets.
 
 **Technologies:** C++, LLVM, CMake, compiler passes
-[My fork](https://github.com/AlessandroAssini/ASPIS) · [Original project](https://github.com/HEAPLab/ASPIS)
 
-### 🎲 MyShelfie
+### 🎲 MyShelfie | [Repository](https://github.com/AlessandroAssini/Project-Ingegneria-del-Software-2023)
 
 A Java client-server board-game project with MVC, Socket/RMI, CLI/GUI, integrated chat and concurrent multiplayer sessions.
 
 **Technologies:** Java, Maven, Socket, RMI, JavaFX
-[Repository](https://github.com/AlessandroAssini/Project-Ingegneria-del-Software-2023)
 
-### ⚙️ VHDL Multi-Channel Memory Router
+### ⚙️ VHDL Memory Router | [Repository](https://github.com/AlessandroAssini/Project-Reti-Logiche-2023)
 
 A VHDL hardware module that routes memory data to one of four output channels using a serialized input sequence and 16-bit addressing.
 
 **Technologies:** VHDL, digital logic design
-[Repository](https://github.com/AlessandroAssini/Project-Reti-Logiche-2023)
 
-### 📊 Milan Businesses Data Quality
+### 📊 Milan Businesses Data Quality | [Repository](https://github.com/AlessandroAssini/Milan-Businesses-Data-Quality)
 
 A data quality project on commercial activities in Milan, including profiling, quality assessment, missing/inconsistent values, duplicate detection and cleaning.
 
 **Technologies:** Python, Jupyter Notebook
-[Repository](https://github.com/AlessandroAssini/Milan-Businesses-Data-Quality)
+
+## Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlessandroAssini-181717?logo=github&logoColor=white)](https://github.com/AlessandroAssini)
