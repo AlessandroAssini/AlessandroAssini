@@ -25,7 +25,7 @@ Computer Science and Engineering student at **Politecnico di Milano**, with proj
 **Description:** An NLP group project featuring a quiz chatbot powered by local open-weight LLMs, RAG, speech interaction and agentic AI techniques.  
 **Technologies:** Python, PyTorch, Hugging Face Transformers, FAISS, Sentence Transformers, RAG, Agentic AI, Whisper, Google Colab
 
-### 🛡️ [ASPIS](https://github.com/AlessandroAssini/ASPIS) | [Original](https://github.com/HEAPLab/ASPIS)
+### 🛡️ [ASPIS](https://github.com/AlessandroAssini/ASPIS)
 
 **Description:** Fork of **ASPIS — Automatic Software-based Protection and Integrity Suite**, an LLVM plugin operating on Intermediate Representation to harden software against Single-Event Upsets.  
 **Technologies:** C++, LLVM, CMake, compiler passes
