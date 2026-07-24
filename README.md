@@ -22,7 +22,7 @@ Computer Science and Engineering student at **Politecnico di Milano**, with proj
 
 ### 🤖 [PoliMillionaire](https://github.com/AlessandroAssini/polimillionaire-nlp)
 
-**Description:** A group project for the Natural Language Processing course at Politecnico di Milano. We developed a chatbot for the *Who Wants to Be a PoliMillionaire?* quiz, evaluating local open-weight LLMs, prompting strategies, Retrieval-Augmented Generation, mathematical tool use, speech-based interaction and agentic AI techniques such as routing, tool calling and adaptive retrieval.  
+**Description:** An NLP group project featuring a quiz chatbot powered by local open-weight LLMs, RAG, speech interaction and agentic AI techniques.  
 **Technologies:** Python, PyTorch, Hugging Face Transformers, FAISS, Sentence Transformers, RAG, Agentic AI, Whisper, Google Colab
 
 ### 🛡️ [ASPIS](https://github.com/AlessandroAssini/ASPIS) | [Original](https://github.com/HEAPLab/ASPIS)
