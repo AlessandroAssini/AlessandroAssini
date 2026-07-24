@@ -6,21 +6,13 @@ Computer Science and Engineering student at **Politecnico di Milano**, with proj
 
 - 🎓 Computer Science and Engineering student at **Politecnico di Milano**
 - 📍 Based in Milan, Italy
-- 💻 I enjoy building software and analysing systems at different abstraction levels, from distributed Java applications to digital hardware and compiler-based tools
 
 ## Languages and tools
 
-![Java](https://img.shields.io/badge/Java-Programming-ED8B00?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-Systems%20Programming-A8B9CC?logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-Compiler%20Development-00599C?logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![VHDL](https://img.shields.io/badge/VHDL-Digital%20Design-informational)
-![LLVM](https://img.shields.io/badge/LLVM-Compiler%20Infrastructure-informational)
-![JavaFX](https://img.shields.io/badge/JavaFX-Desktop%20GUI-5382A1)
-![Maven](https://img.shields.io/badge/Maven-Build%20Automation-C71A36?logo=apachemaven&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-Build%20System-064F8C?logo=cmake&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Data%20Analysis-F37626?logo=jupyter&logoColor=white)
 
 ## Featured projects
 
