@@ -3,9 +3,6 @@
 ## About me
 
 - 🎓 Computer Science and Engineering student at **Politecnico di Milano**
-- 💻 Interested in software architecture and distributed applications
-- ⚙️ Experience with low-level programming, digital hardware design and compiler infrastructure
-- 📊 Currently exploring data quality, data profiling and data cleaning
 - 📍 Based in Milan, Italy
 
 ## Languages and tools
@@ -33,7 +30,7 @@ against Single-Event Upsets.
 
 ---
 
-### 🎲 Software Engineering Project
+### 🎲 MyShelfie
 
 A Java client-server application developed for the Software Engineering course.
 
@@ -62,14 +59,14 @@ output channels based on a serialized input sequence.
 
 [View repository](https://github.com/AlessandroAssini/Project-Reti-Logiche-2023)
 
-## Currently working on
+## Projects
 
 ### 📊 Milan Commercial Activities Data Quality
 
-A data quality project focused on the analysis of a dataset describing
-commercial activities in Milan.
+A data quality project focused on analysing a dataset describing commercial
+activities in Milan.
 
-The project explores:
+The project covered:
 
 - data profiling;
 - quality assessment;
@@ -77,8 +74,8 @@ The project explores:
 - duplicate detection;
 - data cleaning and transformation.
 
-The repository will be published after its structure and documentation have
-been completed.
+The repository will be published after its structure and documentation are
+completed.
 
 ## Areas of interest
 
