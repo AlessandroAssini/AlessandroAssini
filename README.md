@@ -28,17 +28,17 @@ A Java client-server board-game project with MVC, Socket/RMI, CLI/GUI, integrate
 
 **Technologies:** Java, Maven, Socket, RMI, JavaFX
 
-### ⚙️ VHDL Memory Router | [Repository](https://github.com/AlessandroAssini/Project-Reti-Logiche-2023)
+### ⚙️ BitRoute | [Repository](https://github.com/AlessandroAssini/bitroute-vhdl)
 
-A VHDL hardware module that routes memory data to one of four output channels using a serialized input sequence and 16-bit addressing.
+A VHDL memory-routing module that decodes a serialized command, retrieves an 8-bit value from a 16-bit memory address and routes it to one of four output channels.
 
 **Technologies:** VHDL, digital logic design
 
-### 📊 Milan Businesses Data Quality | [Repository](https://github.com/AlessandroAssini/Milan-Businesses-Data-Quality)
+### 📊 MilanDataCare | [Repository](https://github.com/AlessandroAssini/milan-data-care)
 
-A data quality project on commercial activities in Milan, including profiling, quality assessment, missing/inconsistent values, duplicate detection and cleaning.
+A Python data quality project for profiling, assessing and cleaning a dataset of commercial activities in Milan, with a focus on missing values, inconsistencies and duplicate records.
 
-**Technologies:** Python, Jupyter Notebook
+**Technologies:** Python
 
 ## Contact
 
