@@ -20,54 +20,46 @@ Computer Science and Engineering student at **Politecnico di Milano**, with proj
 
 ## Projects
 
-### 🤖 PoliMillionaire | [Repository](https://github.com/AlessandroAssini/polimillionaire-nlp)
+### 🤖 [PoliMillionaire](https://github.com/AlessandroAssini/polimillionaire-nlp)
 
-A group project for the Natural Language Processing course at Politecnico di Milano. We developed a chatbot for the *Who Wants to Be a PoliMillionaire?* quiz, evaluating local open-weight LLMs, prompting strategies, Retrieval-Augmented Generation, mathematical tool use, speech-based interaction and agentic AI techniques such as routing, tool calling and adaptive retrieval.
-
+**Description:** A group project for the Natural Language Processing course at Politecnico di Milano. We developed a chatbot for the *Who Wants to Be a PoliMillionaire?* quiz, evaluating local open-weight LLMs, prompting strategies, Retrieval-Augmented Generation, mathematical tool use, speech-based interaction and agentic AI techniques such as routing, tool calling and adaptive retrieval.  
 **Technologies:** Python, PyTorch, Hugging Face Transformers, FAISS, Sentence Transformers, RAG, Agentic AI, Whisper, Google Colab
 
-### 🛡️ ASPIS | [Fork](https://github.com/AlessandroAssini/ASPIS) | [Original](https://github.com/HEAPLab/ASPIS)
+### 🛡️ [ASPIS](https://github.com/AlessandroAssini/ASPIS) | [Original](https://github.com/HEAPLab/ASPIS)
 
-Fork of **ASPIS — Automatic Software-based Protection and Integrity Suite**, an LLVM plugin operating on Intermediate Representation to harden software against Single-Event Upsets.
-
+**Description:** Fork of **ASPIS — Automatic Software-based Protection and Integrity Suite**, an LLVM plugin operating on Intermediate Representation to harden software against Single-Event Upsets.  
 **Technologies:** C++, LLVM, CMake, compiler passes
 
-### 🎲 MyShelfie | [Repository](https://github.com/AlessandroAssini/Project-Ingegneria-del-Software-2023)
+### 🎲 [MyShelfie](https://github.com/AlessandroAssini/Project-Ingegneria-del-Software-2023)
 
-A Java client-server board-game project with MVC, Socket/RMI, CLI/GUI, integrated chat and concurrent multiplayer sessions.
-
+**Description:** A Java client-server board-game project with MVC, Socket/RMI, CLI/GUI, integrated chat and concurrent multiplayer sessions.  
 **Technologies:** Java, Maven, Socket, RMI, JavaFX
 
-### 🏥 ClinicalTrial | [Repository](https://github.com/AlessandroAssini/ClinicalTrial)
+### 🏥 [ClinicalTrial](https://github.com/AlessandroAssini/ClinicalTrial)
 
-A collaborative workflow for defining and approving clinical trials across hospitals and ethical committees, modelled with BPMN and Petri Nets and partially automated through Camunda 8.
-
+**Description:** A collaborative workflow for defining and approving clinical trials across hospitals and ethical committees, modelled with BPMN and Petri Nets and partially automated through Camunda 8.  
 **Technologies:** BPMN, Camunda 8, Zeebe, JavaScript, Node.js, REST APIs, Petri Nets
 
-### ⚙️ BitRoute | [Repository](https://github.com/AlessandroAssini/bitroute-vhdl)
+### ⚙️ [BitRoute](https://github.com/AlessandroAssini/bitroute-vhdl)
 
-A VHDL memory-routing module that decodes a serialized command, retrieves an 8-bit value from a 16-bit memory address and routes it to one of four output channels.
-
+**Description:** A VHDL memory-routing module that decodes a serialized command, retrieves an 8-bit value from a 16-bit memory address and routes it to one of four output channels.  
 **Technologies:** VHDL, digital logic design
 
-### 📊 MilanDataCare | [Repository](https://github.com/AlessandroAssini/milan-data-care)
+### 📊 [MilanDataCare](https://github.com/AlessandroAssini/milan-data-care)
 
-A Python data quality project for profiling, assessing and cleaning a dataset of commercial activities in Milan, with a focus on missing values, inconsistencies and duplicate records.
-
+**Description:** A Python data quality project for profiling, assessing and cleaning a dataset of commercial activities in Milan, with a focus on missing values, inconsistencies and duplicate records.  
 **Technologies:** Python
 
 ## Challenges
 
-### 📈 SystemPerformanceModels | [Repository](https://github.com/AlessandroAssini/SystemPerformanceModels)
+### 📈 [SystemPerformanceModels](https://github.com/AlessandroAssini/SystemPerformanceModels)
 
-A collection of performance-modelling challenges covering computing systems and services such as microservices, caching, RAID architectures, hybrid-cloud infrastructures, production facilities and transport systems.
-
+**Description:** A collection of performance-modelling challenges covering computing systems and services such as microservices, caching, RAID architectures, hybrid-cloud infrastructures, production facilities and transport systems.  
 **Technologies:** Python, JMT, JMVA, queueing networks, performance modelling, numerical analysis
 
-### 🌐 IoT Challenges | [Repository](https://github.com/AlessandroAssini/iot-challenges)
+### 🌐 [IoT Challenges](https://github.com/AlessandroAssini/iot-challenges)
 
-A collection of Internet of Things coursework challenges covering energy-efficient ESP32 nodes, CoAP, MQTT and MQTT-SN traffic analysis, and LoRa network simulations with Node-RED integration.
-
+**Description:** A collection of Internet of Things coursework challenges covering energy-efficient ESP32 nodes, CoAP, MQTT and MQTT-SN traffic analysis, and LoRa network simulations with Node-RED integration.  
 **Technologies:** Python, Arduino, ESP32, Wokwi, CoAP, MQTT, MQTT-SN, LoRa, LoRaSim, Node-RED, Wireshark
 
 ## Contact
