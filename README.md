@@ -1,4 +1,4 @@
-# Hi, I'm Alessandro Assini 👋
+# Hi, I'm Alessandro Assini 👋 · [GitHub](https://github.com/AlessandroAssini)
 
 Computer Science and Engineering student at **Politecnico di Milano**, with project experience in software engineering, distributed applications, digital hardware design, compiler infrastructure and data quality.
 
@@ -30,7 +30,7 @@ A Java client-server board-game project with MVC, Socket/RMI, CLI/GUI, integrate
 **Technologies:** Java, Maven, Socket, RMI, JavaFX
 [Repository](https://github.com/AlessandroAssini/Project-Ingegneria-del-Software-2023)
 
-### ⚙️ VHDL Memory Router
+### ⚙️ VHDL Multi-Channel Memory Router
 
 A VHDL hardware module that routes memory data to one of four output channels using a serialized input sequence and 16-bit addressing.
 
@@ -43,16 +43,3 @@ A data quality project on commercial activities in Milan, including profiling, q
 
 **Technologies:** Python, Jupyter Notebook
 [Repository](https://github.com/AlessandroAssini/Milan-Businesses-Data-Quality)
-
-## Areas of interest
-
-- Software engineering
-- Distributed applications
-- Digital hardware design
-- Compiler infrastructure
-- Software fault tolerance
-- Data quality and data cleaning
-
-## Contact
-
-[![GitHub](https://img.shields.io/badge/GitHub-AlessandroAssini-181717?logo=github&logoColor=white)](https://github.com/AlessandroAssini)
