@@ -8,7 +8,7 @@
 ## Languages and tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-Digital%20Design-informational)
 ![LLVM](https://img.shields.io/badge/LLVM-Compiler%20Infrastructure-informational)
@@ -64,6 +64,8 @@ output channels based on a serialized input sequence.
 
 A data quality project focused on analysing a dataset describing commercial
 activities in Milan.
+
+![Python](https://img.shields.io/badge/Python-Data%20Quality-3776AB?logo=python&logoColor=white)
 
 **Technologies:** Python
 
