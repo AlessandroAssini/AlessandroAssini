@@ -1,6 +1,6 @@
 # Hi, I'm Alessandro Assini 👋
 
-Computer Science and Engineering student at **Politecnico di Milano**, with project experience in software engineering, distributed applications, digital hardware design, compiler infrastructure and data quality.
+Computer Science and Engineering student at **Politecnico di Milano**, with project experience in software engineering, distributed applications, business process management, digital hardware design, compiler infrastructure and data quality.
 
 ## About me
 
@@ -12,13 +12,16 @@ Computer Science and Engineering student at **Politecnico di Milano**, with proj
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![VHDL](https://img.shields.io/badge/VHDL-Digital%20Design-informational)
+![BPMN](https://img.shields.io/badge/BPMN-Process%20Modelling-informational)
+![Camunda](https://img.shields.io/badge/Camunda-Workflow%20Automation-FC5D0D?logo=camunda&logoColor=white)
 
 ## Projects
 
 ### 🛡️ ASPIS | [Fork](https://github.com/AlessandroAssini/ASPIS) | [Original](https://github.com/HEAPLab/ASPIS)
 
-Fork of **ASPIS - Automatic Software-based Protection and Integrity Suite**, an LLVM plugin on IR to harden software against Single-Event Upsets.
+Fork of **ASPIS - Automatic Software-based Protection and Integrity Suite**, an LLVM plugin operating on Intermediate Representation to harden software against Single-Event Upsets.
 
 **Technologies:** C++, LLVM, CMake, compiler passes
 
@@ -27,6 +30,12 @@ Fork of **ASPIS - Automatic Software-based Protection and Integrity Suite**, an 
 A Java client-server board-game project with MVC, Socket/RMI, CLI/GUI, integrated chat and concurrent multiplayer sessions.
 
 **Technologies:** Java, Maven, Socket, RMI, JavaFX
+
+### 🏥 ClinicalTrial | [Repository](https://github.com/AlessandroAssini/ClinicalTrial)
+
+A collaborative workflow for defining and approving clinical trials across hospitals and ethical committees, modelled with BPMN and Petri Nets and partially automated through Camunda 8.
+
+**Technologies:** BPMN, Camunda 8, Zeebe, JavaScript, Node.js, REST APIs, Petri Nets
 
 ### ⚙️ BitRoute | [Repository](https://github.com/AlessandroAssini/bitroute-vhdl)
 
