@@ -9,6 +9,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-Digital%20Design-informational)
 ![LLVM](https://img.shields.io/badge/LLVM-Compiler%20Infrastructure-informational)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
@@ -63,6 +64,8 @@ output channels based on a serialized input sequence.
 
 A data quality project focused on analysing a dataset describing commercial
 activities in Milan.
+
+**Technologies:** Python
 
 The project covered:
 
