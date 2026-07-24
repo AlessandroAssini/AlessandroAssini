@@ -48,8 +48,6 @@ A VHDL memory-routing module that decodes a serialized command, retrieves an 8-b
 
 A collection of performance-modelling challenges covering computing systems and services such as microservices, caching, RAID architectures, hybrid-cloud infrastructures, production facilities and transport systems.
 
-The solutions apply analytical and numerical techniques to evaluate system performance, resource utilisation, response times, throughput and cost-performance trade-offs.
-
 **Technologies:** Python, JMT, JMVA, queueing networks, performance modelling, numerical analysis
 
 ### 📊 MilanDataCare | [Repository](https://github.com/AlessandroAssini/milan-data-care)
