@@ -13,7 +13,7 @@
 ![LLVM](https://img.shields.io/badge/LLVM-Compiler%20Infrastructure-informational)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
 
-## Featured projects
+## Projects
 
 ### 🛡️ ASPIS
 
@@ -58,8 +58,6 @@ output channels based on a serialized input sequence.
 **Technologies:** VHDL, digital logic design
 
 [View repository](https://github.com/AlessandroAssini/Project-Reti-Logiche-2023)
-
-## Projects
 
 ### 📊 Milan Commercial Activities Data Quality
 
