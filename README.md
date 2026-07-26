@@ -9,23 +9,43 @@ Computer Science and Engineering student at **Politecnico di Milano**, with proj
 
 ## Languages and tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![VHDL](https://img.shields.io/badge/VHDL-Digital%20Design-informational)
-![BPMN](https://img.shields.io/badge/BPMN-Process%20Modelling-informational)
+
+### Tools and technologies
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?logo=llvm&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-Desktop%20UI-informational)
 ![Camunda](https://img.shields.io/badge/Camunda-Workflow%20Automation-FC5D0D?logo=camunda&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-informational)
+![BPMN](https://img.shields.io/badge/BPMN-Process%20Modelling-informational)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-informational)
+![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white)
+![CoAP](https://img.shields.io/badge/CoAP-informational)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?logo=nodered&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
 
 ## Projects
 
 ### 🤖 [PoliMillionaire](https://github.com/AlessandroAssini/polimillionaire-nlp)
 
-**Description:** An NLP group project featuring a quiz chatbot powered by local open-weight LLMs, RAG, speech interaction and agentic AI techniques.  
+**Description:** A group project for the Natural Language Processing course at Politecnico di Milano. We developed a chatbot for the *Who Wants to Be a PoliMillionaire?* quiz, evaluating local open-weight LLMs, prompting strategies, Retrieval-Augmented Generation, mathematical tool use, speech-based interaction and agentic AI techniques such as routing, tool calling and adaptive retrieval.  
 **Technologies:** Python, PyTorch, Hugging Face Transformers, FAISS, Sentence Transformers, RAG, Agentic AI, Whisper, Google Colab
 
-### 🛡️ [ASPIS](https://github.com/AlessandroAssini/ASPIS)
+### 🛡️ [ASPIS](https://github.com/AlessandroAssini/ASPIS) | [Original](https://github.com/HEAPLab/ASPIS)
 
 **Description:** Fork of **ASPIS — Automatic Software-based Protection and Integrity Suite**, an LLVM plugin operating on Intermediate Representation to harden software against Single-Event Upsets.  
 **Technologies:** C++, LLVM, CMake, compiler passes
