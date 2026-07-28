@@ -1,6 +1,6 @@
 # Hi, I'm Alessandro Assini 👋
 
-Computer Science and Engineering student at **Politecnico di Milano**, with project experience in software engineering, distributed applications, artificial intelligence, business process management, digital hardware design, compiler infrastructure and data quality.
+Computer Science and Engineering student at **Politecnico di Milano**.
 
 ## About me
 
