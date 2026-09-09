@@ -1,79 +1,60 @@
 # Hi, I'm Alessandro Assini 👋
 
-Computer Science and Engineering student at **Politecnico di Milano**.
+Computer Science and Engineering student at **Politecnico di Milano**, interested in software engineering, artificial intelligence and computer systems.
 
-## About me
+I enjoy understanding complex systems, designing reliable software architectures and exploring modern AI technologies.
 
-- 🎓 Computer Science and Engineering student at **Politecnico di Milano**
-- 📍 Based in Milan, Italy
+## Tech
 
-## Languages and tools
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![VHDL](https://img.shields.io/badge/VHDL-Digital%20Design-informational)
-
-### Tools and technologies
-
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
-![JavaFX](https://img.shields.io/badge/JavaFX-Desktop%20UI-informational)
-![Camunda](https://img.shields.io/badge/Camunda-Workflow%20Automation-FC5D0D?logo=camunda&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
-![BPMN](https://img.shields.io/badge/BPMN-Process%20Modelling-informational)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-informational)
-![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?logo=nodered&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
+**Languages:** Python · Java · C · C++ · VHDL · JavaScript  
+**Technologies:** PyTorch · Hugging Face · LLVM · Git · REST APIs
 
 ## Projects
 
-### 🤖 [PoliMillionaire](https://github.com/AlessandroAssini/polimillionaire-nlp)
+### PoliMillionaire
+*Who wants to be a PoliMillionaire?*
 
-**Description:** An NLP group project featuring a quiz chatbot powered by local open-weight LLMs, RAG, speech interaction and agentic AI techniques.  
-**Technologies:** Python, PyTorch, Hugging Face Transformers, FAISS, Sentence Transformers, RAG, Agentic AI, Whisper, Google Colab
+NLP group project built around a quiz assistant powered by local open-weight LLMs. It combines retrieval-augmented generation, semantic search, speech interaction and agentic AI techniques.
 
-### 🛡️ [ASPIS](https://github.com/AlessandroAssini/ASPIS)
+**Tech:** Python · PyTorch · Hugging Face · FAISS · RAG
 
-**Description:** Fork of **ASPIS — Automatic Software-based Protection and Integrity Suite**, an LLVM plugin operating on Intermediate Representation to harden software against Single-Event Upsets.  
-**Technologies:** C++, LLVM, CMake, compiler passes
+### ASPIS
+Contributed to testing and validation of **ASPIS — Automatic Software-based Protection and Integrity Suite**, an LLVM-based tool that transforms Intermediate Representation to improve resilience against Single-Event Upsets.
 
-### 🎲 [MyShelfie](https://github.com/AlessandroAssini/Project-Ingegneria-del-Software-2023)
+**Tech:** C++ · LLVM · CMake · Compiler Passes
 
-**Description:** A Java client-server board-game project with MVC, Socket/RMI, CLI/GUI, integrated chat and concurrent multiplayer sessions.  
-**Technologies:** Java, Maven, Socket, RMI, JavaFX
+### MyShelfie
+Java client-server implementation of a multiplayer board game, featuring MVC architecture, Socket/RMI communication, CLI and GUI interfaces, integrated chat and concurrent game sessions.
 
-### 🏥 [ClinicalTrial](https://github.com/AlessandroAssini/ClinicalTrial)
+**Tech:** Java · Maven · Socket/RMI · JavaFX
 
-**Description:** A collaborative workflow for defining and approving clinical trials across hospitals and ethical committees, modelled with BPMN and Petri Nets and partially automated through Camunda 8.  
-**Technologies:** BPMN, Camunda 8, Zeebe, JavaScript, Node.js, REST APIs, Petri Nets
+### Clinical Trial Workflow
+Collaborative workflow for defining and approving clinical trials across hospitals and ethics committees, modelled with BPMN and Petri Nets and partially automated with Camunda 8.
 
-### ⚙️ [BitRoute](https://github.com/AlessandroAssini/bitroute-vhdl)
+**Tech:** BPMN · Camunda 8 · Zeebe · REST APIs · JavaScript
 
-**Description:** A VHDL memory-routing module that decodes a serialized command, retrieves an 8-bit value from a 16-bit memory address and routes it to one of four output channels.  
-**Technologies:** VHDL, digital logic design
+### Digital Hardware Design
+VHDL hardware module that decodes serialized commands, accesses an 8-bit value through a 16-bit memory address and routes the result to one of four output channels.
 
-### 📊 [MilanDataCare](https://github.com/AlessandroAssini/milan-data-care)
+**Tech:** VHDL · Digital Logic
 
-**Description:** A Python data quality project for profiling, assessing and cleaning a dataset of commercial activities in Milan, with a focus on missing values, inconsistencies and duplicate records.  
-**Technologies:** Python
+### Data Quality
+Data profiling, assessment and cleaning pipeline for a dataset of commercial activities in Milan, focusing on missing values, inconsistencies and duplicate records.
 
-## Challenges
+**Tech:** Python · Data Profiling · Data Cleaning
 
-### 📈 [SystemPerformanceModels](https://github.com/AlessandroAssini/SystemPerformanceModels)
+## Coursework Challenges
 
-**Description:** A collection of performance-modelling challenges covering computing systems and services such as microservices, caching, RAID architectures, hybrid-cloud infrastructures, production facilities and transport systems.  
-**Technologies:** Python, JMT, JMVA, queueing networks, performance modelling, numerical analysis
+### Performance Evaluation
+Performance-modelling exercises covering computing systems, microservices, caching, RAID, hybrid-cloud infrastructures and queueing networks.
 
-### 🌐 [IoT Challenges](https://github.com/AlessandroAssini/iot-challenges)
+**Tech:** Python · JMT · Queueing Networks · Performance Modelling
 
-**Description:** A collection of Internet of Things coursework challenges covering energy-efficient ESP32 nodes, CoAP, MQTT and MQTT-SN traffic analysis, and LoRa network simulations with Node-RED integration.  
-**Technologies:** Python, Arduino, ESP32, Wokwi, CoAP, MQTT, MQTT-SN, LoRa, LoRaSim, Node-RED, Wireshark
+### Internet of Things
+IoT challenges involving ESP32 nodes, CoAP, MQTT/MQTT-SN traffic analysis, LoRa simulations and Node-RED integrations.
+
+**Tech:** ESP32 · MQTT · CoAP · LoRa · Node-RED
 
 ## Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-AlessandroAssini-181717?logo=github&logoColor=white)](https://github.com/AlessandroAssini)
+[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
