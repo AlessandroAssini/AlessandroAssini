@@ -6,7 +6,7 @@ I enjoy understanding complex systems, designing reliable software architectures
 
 ## Tech
 
-**Languages:** Python · Java · C · C++ · VHDL · JavaScript  
+**Languages:** Python · Java · C · VHDL · JavaScript  
 **Technologies:** PyTorch · Hugging Face · LLVM · Git · REST APIs
 
 ## Projects
